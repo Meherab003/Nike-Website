@@ -5,7 +5,7 @@ const Subscribe = () => {
       className="max-container flex justify-between items-center max-lg:flex-col gap-10"
       id="contact-us"
     >
-      <h3 className="text-4xl w-full lg:max-w-md font-palanquin font-bold">
+      <h3 className="text-[40px] lg:text-4xl w-full lg:max-w-md font-palanquin font-bold">
         Sign Up From <span className="text-coral-red"> Updates </span>& Newsletters
       </h3>
       <div className="w-full lg:max-w-[40%] flex items-center max-sm:flex-col gap-5 p-2.5 sm:border sm:border-slate-gray rounded-full">
